@@ -41,7 +41,7 @@ li a:hover {
   <li><a href="#Resume">Resume</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
-  
 </ul>
+  
 </body>
 </html>
