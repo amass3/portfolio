@@ -22,7 +22,7 @@ li a {
   display: block;
   color: green;
   text-align: center;
-  padding: 24px 16px;
+  padding: 14px 30px;
   text-decoration: none;
 }
 
