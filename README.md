@@ -22,7 +22,7 @@ li a {
   display: block;
   color: green;
   text-align: center;
-  padding: 14px 16px;
+  padding: 24px 16px;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ li a:hover {
   
 <!-- Navigation Bar -->
 <ul>
-  <li><a href=""></a></li>
+  <li><b href=""></b></li>
   <li><a href="#home">Home</a></li>
   <li><a href="#Resume">Resume</a></li>
   <li><a href="#contact">Contact</a></li>
