@@ -4,7 +4,7 @@
 
 <style>
 body {
-  background-color:  #80ea16;
+  background-color:  #76fc61;
 }
 ul {
   list-style-type: none;
@@ -37,6 +37,7 @@ li a:hover {
   
 <!-- Navigation Bar -->
 <ul>
+  <li><a href=""></a></li>
   <li><a href="#home">Home</a></li>
   <li><a href="#Resume">Resume</a></li>
   <li><a href="#contact">Contact</a></li>
