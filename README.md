@@ -4,7 +4,7 @@
 
 <style>
 body {
-  background-color: lightblue;
+  background-color: green;
 }
 ul {
   list-style-type: none;
@@ -27,7 +27,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #111;
+  background-color:  #0fcf35;
 }
 
 </style>
