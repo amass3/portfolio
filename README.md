@@ -27,7 +27,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #6aa2f9;
+  background-color:  #76f981;
 }
 
 </style>
@@ -41,7 +41,7 @@ li a:hover {
   <li><a href="#home">Home</a></li>
   <li><a href="#Resume">Resume</a></li>
   <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li style="float:right"><a class="active" href="#about">About</a></li>
 </ul>
   
 </body>
