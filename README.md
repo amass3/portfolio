@@ -20,14 +20,14 @@ li {
 
 li a {
   display: block;
-  color: green;
+  color: #76fc61;
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color:  #76fc61;
+  background-color: #2ac66a ;
 }
 
 </style>
