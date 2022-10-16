@@ -22,12 +22,12 @@ li a {
   display: block;
   color: green;
   text-align: center;
-  padding: 14px 30px;
+  padding: 14px 20px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color:  #0fcf35;
+  background-color:  #76fc61;
 }
 
 </style>
